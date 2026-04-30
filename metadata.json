@@ -1,0 +1,8 @@
+{
+  "name": "로봇팔 IK 체험 시뮬레이터",
+  "description": "손 추적으로 Aloha 양팔 로봇을 제어하며 역기구학(IK) 개념을 체험하는 교육용 브라우저 시뮬레이터. 세종시 기술교사 제작.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
